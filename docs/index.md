@@ -4,8 +4,10 @@ layout: home
 
 hero:
   name: "Code Pai Rueay"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "ไปเรื่อย แต่ไม่หยุด"
+  tagline: บันทึกการเดินทางของโค้ดเดอร์ที่เน้นความสม่ำเสมอ แม้จะช้า แต่ไม่หยุด (Slow and Steady). เรามาเก็บความรู้และเติบโตไปด้วยกันครับ
+  image:
+    src: /logo-back.png
   actions:
     - theme: brand
       text: Markdown Examples
@@ -23,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
