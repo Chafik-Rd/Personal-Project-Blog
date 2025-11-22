@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    "jsx": "preserve",
+    "isolatedModules": true,
+
+    "types": ["node", "vite/client"],
+
+    "target": "ESNext",
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowJs": true
+  },
+
+  "include": ["./**/*.ts", "./**/*.vue", "./**/*.mts"],
+  "exclude": ["node_modules"]
+}
