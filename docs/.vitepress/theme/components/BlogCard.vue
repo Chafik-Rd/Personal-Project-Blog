@@ -34,7 +34,7 @@ defineProps<{
   display: flex;
   flex-direction: column;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: 12px;
   background-color: var(--vp-c-bg-soft);
   text-decoration: none;
   max-width: 340px;
